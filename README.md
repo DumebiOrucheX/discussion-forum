@@ -1,6 +1,10 @@
 # Dumebi Forum
 
-Dumebi Forum is a full-stack discussion forum web application. It features a modern React frontend (using Vite and Tailwind CSS) and a Node.js/Express backend with MongoDB. Users can ask questions, reply, and interact in real time.
+Dumebi Forum is a full-stack discussion forum web application created and maintained by **Dumebi Oruche**. It features a modern React frontend (using Vite and Tailwind CSS) and a Node.js/Express backend with MongoDB. Users can ask questions, reply, and interact in real time.
+
+## Author
+- **Dumebi Oruche**  
+  [GitHub](https://github.com/DumebiOrucheX)
 
 ## Features
 - User authentication (signup/login)

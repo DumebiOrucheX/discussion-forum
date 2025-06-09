@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Dumebi Oruche (https://github.com/DumebiOrucheX)",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
